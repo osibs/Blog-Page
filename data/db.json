@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "word": "I am a guy with many skills and i will rule the world",
+      "name": "Will",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "word": "I am a man with many many skills and i will rule your world",
+      "name": "Osibs",
+      "id": 2
+    }
+  ]
+}
